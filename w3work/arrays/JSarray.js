@@ -43,9 +43,11 @@ for (let i = 0; i < teachers.length; i++) {
 
 let numberOfJoshs = 0;
 let indexOfJoshs = []
-for(let i = 0; i < teachers.length; i++) {
-    if (teachers[i] === "Josh") {
+for(let i = 0; i < teachers.length; i++); {
+    if (teachers[i] === "Josh"); {
         numberOfJoshs++;
-        indexOfJoshs.push(i)
+        indexOfJoshs.push(i);
     }
 }
+
+console.log(teachers);
