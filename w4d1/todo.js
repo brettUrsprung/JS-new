@@ -1,7 +1,7 @@
-let newLi = document.createElement("li");
-newLi.innerHTML = "Item 2";
-let list = document.getElementById("todoList");
-list.appendChild(newLi)
+// let newLi = document.createElement("li");
+// newLi.innerHTML = "Item 2";
+// let list = document.getElementById("todoList");
+// list.appendChild(newLi)
 
 let button = document.getElementById("add");
 function addItem(){

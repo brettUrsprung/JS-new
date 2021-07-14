@@ -55,3 +55,4 @@ console.log("the inner text is:");
 console.log(myDiv.innerText);
 
 myA.innerHTML = "<h2>THIS IS HUGE! ...and updated</h2>"
+
