@@ -71,3 +71,17 @@ function getFile(myCallback) {
 }
 
 getFile(carDisplayer);
+
+
+
+let numberList = [1, 2, 3, 4, 5, 6,7]
+function isOddNumber(number){
+    return number %2;
+}
+
+const oddNumbers = numbers.filter(isOddNumber);
+console.log(oddNumbers);
+
+setTimeout(function() {  
+    console.log("The odd numbers from the array are shown after 3 seconds: " + oddNumbers);
+}, 3000);
