@@ -1,4 +1,5 @@
 {
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Monokai Dimmed"
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Earthbound - Fire Spring (Darker)",
+  "liveServer.settings.port": 5501
 }
